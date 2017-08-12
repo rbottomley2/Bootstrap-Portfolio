@@ -1,0 +1,91 @@
+head {
+	font-size: 30px;
+}
+
+body {
+	background-color: gray;
+	width: auto;
+}
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
+	color: white;
+}
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 16px;
+}
+.colA {
+	border-top: solid 3px lightgray;
+}
+.colB {
+	border-top: solid 3px lightgray;
+}
+.navCol {
+	border-top: solid 3px lightgray;
+	padding: 10px;
+}
+#name {
+	color: white;
+}
+#contactname {
+	text-align: center;
+}
+#message {
+	text-align: center;
+}
+img, img.scale-with-grid {
+	outline: 0;
+	max-width: 100%
+	height: auto;
+}
+.ContactMe {
+	border: solid 3px lightgray;
+	margin-top: 5px;
+}
+.MyName {
+	background: #4aaaa5;
+	text-align: center;
+	border-bottom: solid 3px lightgray;
+}
+.MyLinks {
+	border-top: solid 3px lightgray;
+	text-align: center;
+	border-top: 20px;
+}
+.MyLinksHeader {
+	text-align: center;
+	margin-top: 20px;
+	
+}
+#linkheader {
+	color: #4aaaa5;
+	font-size: 30px;
+}
+.portfoliopictures {
+	border: solid 3px lightgray;
+}
+.MainHeader {
+	border-bottom: solid 3px lightgray;
+	font-size: 30px;
+	color: #4aaaa5;
+}
+.MainSection {
+	border-top: solid 3px lightgray;
+	display: inline-block;
+	overflow: auto;
+}
+.MyPic {
+	float: left;
+}
+.mainFooter {
+	text-align: center;
+	height: 100px;
+	background-color: lightgray;
+}
+
+
+	
+	
+	
